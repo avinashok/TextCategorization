@@ -1,0 +1,118 @@
+PROCESS INFO-Start 2019-08-09 18:45:17
+PROCESS INFO-Default location for files is  ../Data/
+PROCESS INFO-Number of Columns in the Dataset = 8
+PROCESS INFO-Primary Key = RecordID
+PROCESS INFO-
+ Name of the Column RecordID
+ 
+
+PROCESS INFO-Details of the Column: 
+ 
+PROCESS INFO-Original Datatype should be int64
+
+PROCESS INFO-Datatype in the data is int64
+
+PROCESS INFO-Null Values Data Quality Check for RecordID
+PROCESS INFO-Duplicate Value Data Quality check for RecordID
+PROCESS INFO-Maximum Value is 1890143 
+ 
+PROCESS INFO-Minimum Value is 1890041
+PROCESS INFO-*****************
+PROCESS INFO-
+ Name of the Column CustomerInteractionText
+ 
+
+PROCESS INFO-Details of the Column: 
+ 
+PROCESS INFO-Original Datatype should be object
+
+PROCESS INFO-Datatype in the data is object
+
+PROCESS INFO-Null Values Data Quality Check for CustomerInteractionText
+PROCESS INFO-Duplicate Value Data Quality check for CustomerInteractionText
+PROCESS INFO-Since the Datatype of column CustomerInteractionText is not numeric in the given data, Range cannot be calculated.
+PROCESS INFO-*****************
+PROCESS INFO-
+ Name of the Column CustomerInteractionRawText
+ 
+
+PROCESS INFO-Details of the Column: 
+ 
+PROCESS INFO-Original Datatype should be object
+
+PROCESS INFO-Datatype in the data is object
+
+PROCESS INFO-Null Values Data Quality Check for CustomerInteractionRawText
+PROCESS INFO-Duplicate Value Data Quality check for CustomerInteractionRawText
+PROCESS INFO-Since the Datatype of column CustomerInteractionRawText is not numeric in the given data, Range cannot be calculated.
+PROCESS INFO-*****************
+PROCESS INFO-
+ Name of the Column AgentAssignedTopic
+ 
+
+PROCESS INFO-Details of the Column: 
+ 
+PROCESS INFO-Original Datatype should be object
+
+PROCESS INFO-Datatype in the data is object
+
+PROCESS INFO-Null Values Data Quality Check for AgentAssignedTopic
+PROCESS INFO-Duplicate Value Data Quality check for AgentAssignedTopic
+PROCESS INFO-Since the Datatype of column AgentAssignedTopic is not numeric in the given data, Range cannot be calculated.
+PROCESS INFO-*****************
+PROCESS INFO-
+
+ ******************** 
+
+ 
+PROCESS INFO-Detailed Report on Data Quality is saved in the location: ../Output/DataQuality/
+PROCESS INFO-
+ Types of entities present in the data are: gpe, person 
+
+PROCESS INFO-Number of words in Custom Stopword list = 18
+PROCESS INFO-Some sample other language texts: 
+
+PROCESS INFO-[1890085, 'Add a new line ', 'Add a new line.', 'Add New Line', 4, 'cy']
+PROCESS INFO-[1890131, 'Customer demise ', 'Customer demise.', 'Others', 2, 'de']
+PROCESS INFO-[1890053, 'Cellular connection speed is less than 1MBps  asked Operator to check the device ', 'Cellular connection speed is less than 1MBps. asked Operator to check the device.', 'Poor Connectivity', 13, 'en']
+PROCESS INFO-[1890143, 'Se verificaron nuevas aplicaciones en el mercado ', 'Se verificaron nuevas aplicaciones en el mercado.', 'Others', 7, 'es']
+PROCESS INFO-[1890142, ' call ', '#call?', 'Others', 1, 'it']
+PROCESS INFO-{'3g': 3, '1mbps': 2, '935468r911': 1}
+PROCESS INFO-
+ Number of rows with Null Value in the column 'CustomerInteractionText' are: 0
+PROCESS INFO-
+ Number of rows with duplicate comments in the column 'CustomerInteractionText' are: 1
+PROCESS INFO-
+ The Level 3 Reason Codes for the dropped rows are given below: 
+
+PROCESS INFO-Others    1
+Name: AgentAssignedTopic, dtype: int64
+PROCESS INFO-
+ Number of rows with short comments in the column 'CustomerInteractionText' are: 1
+PROCESS INFO-
+ The Level 3 Reason Codes for the dropped rows are given below: 
+
+PROCESS INFO-Others    1
+Name: AgentAssignedTopic, dtype: int64
+PROCESS INFO-Poor Connectivity
+PROCESS INFO-['speed', 'connection', 'customer', 'conductivity', 'ask', 'area', 'face', 'want', 'check', 'device']
+PROCESS INFO-Add New Line
+PROCESS INFO-['new', 'add', 'line', 'want', 'connection', 'customer', 'know', 'member', 'apart', 'business']
+PROCESS INFO-Change Plans
+PROCESS INFO-['plan', 'change', 'offer', 'customer', 'want', 'new', 'current', 'end', 'happy', 'upgrade']
+PROCESS INFO-Data Usage
+PROCESS INFO-['usage', 'datum', 'customer', 'data', 'actual', 'month', 'balance', 'statistic', 'business', 'check']
+PROCESS INFO-Roaming Plans
+PROCESS INFO-['roam', 'charge', 'customer', 'plan', 'want', 'travel', 'check', 'inquire', 'month', 'town']
+PROCESS INFO-Cancel Service
+PROCESS INFO-['service', 'cancel', 'customer', 'want', 'cancellation', 'exist', 'new', 'transfer', 'panelling', 'celebration']
+PROCESS INFO-Others
+PROCESS INFO-['want', 'imei', 'customer', 'devise', 'check', 'report', 'connection', 'news', 'cancel', 'sad']
+PROCESS INFO-High Bill
+PROCESS INFO-['bill', 'high', 'want', 'month', 'plan', 'customer', 'complain', 'recent', 'offer', 'afford']
+PROCESS INFO-Port Out
+PROCESS INFO-['port', 'customer', 'want', 'transfer', 'service', 'idea', 'status', 'retain', 'bsnl', 'ask']
+PROCESS INFO-Deactivate
+PROCESS INFO-['plan', 'activate', 'customer', 'offer', 'want', 'deactivate', 'current', 'change', 'special', 'currently']
+PROCESS INFO-Detailed Report on Text Preprocessing is saved in the location: ../Output/TextPreprocessing/
+PROCESS INFO-Total Number of Words in the column CustomerInteractionText is 595

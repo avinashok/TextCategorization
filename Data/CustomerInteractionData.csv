@@ -1,0 +1,104 @@
+RecordID,CustomerInteractionRawText,AgentAssignedTopic,LocationID,CallDurationSeconds,AgentID,CustomerID
+1890041,Cus not satisfied with service. want to port out to Idea network. ,Port Out,8,10,z88Nr,5Ms7y
+1890042,Jadav called to check his porting out status. Shared information with him.,Port Out,1,6,xGAVI,s8Zyb
+1890043,Customer thraetened to cancel her service. Said Idea is offerring much better options.,Port Out,9,15,T7Kdd,3IB8J
+1890044,called to ask steps for porting out. She is leaving India.,Port Out,5,15,jtifd,mtR3W
+1890045,Customer dissatisfied with support. Connectivity is poor in his region. Wanted to port to BSNL.,Port Out,7,13,hxY3d,DbBmN
+1890046,port out Options. >> Tried to retain. >> Xferred to Manager.,Port Out,5,20,K1XpF,iJaJT
+1890047,Customer wanted port out. Transferred to offer better plans to retain.,Port Out,8,20,ksjXv,kOoUz
+1890048,Kumar called to ask about his porting status. Moving to BSNL.,Port Out,0,10,0MmQN,Y2jwL
+1890049,Cus wanted to cancel the connection. Transferred to port-out Management Team,Port Out,3,9,nGpIG,95UP8
+1890050,porting out because of high bill on Data Plans.,Port Out,0,17,C9mBD,tpBJs
+1890051,Nicki called to inform poor connectivity in Kannur region.,Poor Connectivity,9,7,fvMNk,yt8X7
+1890052,Low speed connection reported in Uppala area.,Poor Connectivity,3,17,eUYn2,movRl
+1890053,Cellular connection speed is less than 1MBps. asked Operator to check the device.,Poor Connectivity,6,15,VbG2n,wHF3B
+1890054,8289716467 called to complain about the connection speed.,Poor Connectivity,1,9,3bYnT,HK2hK
+1890055,New customer facing internet speed issues. asked to restart device & connect again.,Poor Connectivity,1,10,t2KEl,F6SFJ
+1890056,Low/poor connectivity during day-time. Customer want to increase net speed.,Poor Connectivity,7,19,wfP7U,dn5HN
+1890057,Want 3G connection in his area. ,Poor Connectivity,2,16,Cr2Bi,gcBE1
+1890058,Poor call quality. Checked on the connection speed which was below average.,Poor Connectivity,1,14,QCHGH,GIJ9O
+1890059,Customer facing issues in connectivity from yesterday onwards. Promised resloution.,Poor Connectivity,5,13,0mj3N,r34oU
+1890060,935468R911 called to report abrupt disconection from network.,Poor Connectivity,,7,arEGe,3lTSP
+1890061,Regina complained about high bill for last month.,High Bill,,7,x0R0u,ktQzi
+1890062,Data plans are very expensive complained 7563453326678,High Bill,2,13,dz9pn,0mOLX
+1890063,Customer can't afford monthly bills as they are very expensive.,High Bill,9,9,oRThR,7R2hF
+1890064,Want Senior citizen discount in monthly bills.,High Bill,7,18,ILMzl,TX2Iq
+1890065,Long time customer complaining about high bill. Offerred assistance,High Bill,3,13,1lDmx,r6wiP
+1890066,Cus want to enquire about the high bill for recent weeks. asked for cheap plans.,High Bill,1,10,DcSrK,pAESa
+1890067,Want to review bills for last month as they are abnormally high.,High Bill,8,18,4lZoj,0v4Sr
+1890068,Bill value for last month is high. Customer want to cancel the plan.,High Bill,8,18,ptbQc,NNs8k
+1890069,High bill. Can't afford new plans. Reduce call volume per month.,High Bill,9,6,CGe0y,fsw3j
+1890070,Want to know about offers on recent bill as he got high nill for last month.,High Bill,3,6,4lxsd,ChJ0M
+1890071,Cus travelling for nect month. Checked roaming plans,Roaming Plans,5,10,3FzxP,q6nzC
+1890072,All India plans for Data usage. Don't want incoming call being charged.,Roaming Plans,7,8,rEJTt,eYm3Q
+1890073,Inquired about roaming charges in Indian states.,Roaming Plans,1,15,tuG8A,Mu1GO
+1890074,Customer want to change location of SIM to Bangalore and stop the roaming charges.,Roaming Plans,4,13,gyFFW,JjSMg
+1890075,Hari called to ask about roaming charges. Would be travelling all week.,Roaming Plans,5,8,Hc9xd,XaLPt
+1890076,roaming charges too high. Customer on a one month tour to Spain.,Roaming Plans,6,17,dI41W,drHBl
+1890077,Customer still getting roaming alerts after getting home town. Adviced about roaming plans.,Roaming Plans,1,13,zVMsF,AmJUj
+1890078,Cus called to inquire about National roaming charges. ,Roaming Plans,2,7,c4SJA,GaZSW
+1890079,Want to activate roaming mode in his device.,Roaming Plans,5,12,gc3ec,Ui2RK
+1890080,Customer called in to check roaming plans outside country.,Roaming Plans,6,19,eq0cT,1nmkb
+1890081,68347585642 want to add a new connection.,Add New Line,3,14,D3KmX,8wxr3
+1890082,Customer added a new line. Want to know the status.,Add New Line,4,20,6L0xF,Vp8H2
+1890083,Added a new line. Offered the customer new plans.,Add New Line,7,17,6CEaY,Ok9NL
+1890084,Want to add new line.,Add New Line,3,15,yib4U,Gq3nH
+1890085,Add a new line.,Add New Line,8,5,8ysiF,wXMyg
+1890086,Customer called to ask about adding a new line to one of his family member.,Add New Line,2,14,pFrwK,8wxr3
+1890087,Faisal wants to add a new business connection apart from his personal connection/,Add New Line,1,7,g9iNs,9lG2W
+1890088,Cus called to inquire about adding new line in a new location.,Add New Line,3,20,MHkS1,jX3aD
+1890089,Shaji added a new line. Want to know about his connection details.,Add New Line,2,20,vnwbd,8lowk
+1890090,Newly added line not getting any calls.,Add New Line,2,17,zxbV5,zb9YI
+1890091,Customer wanted to deactivate existing plans.,Deactivate,9,10,YdNdp,LTOOP
+1890092,Deactivate current data plans to change to a new local pack.,Deactivate,6,19,7Rxm6,AYo3D
+1890093,Customer deactivated Onam offer. Still receiving emails & sms about the same.,Deactivate,7,18,6KmzW,5Hzmg
+1890094,Veena wants to deactivate the plan due to unavailability of proper connection.,Deactivate,6,12,FOVqm,te9CZ
+1890095,Decativated all plans due to change of user.,Deactivate,3,15,X5HOK,mz3ZI
+1890096,Deactivating current special plans due to insufficient balance.,Deactivate,4,17,LMpPq,M7FMT
+1890097,Customer terminated the offers permanently.,Deactivate,3,15,1r5tN,d3muk
+1890098,Deactivation requires customer authentication.,Deactivate,0,13,1kcry,uEss6
+1890099,Manoj calls to deactivate the plans he currently has. rolls back to existing plans/,Deactivate,3,14,Ru6Oz,23WMN
+1890100,76578549708 wanted to deactivate the special offers applied to him as bonus.,Deactivate,9,18,Z5kOQ,Q2I3H
+1890101,"Ali want to change plans. He suggested to activate recent offers to his primary number,",Change Plans,4,20,Z5shy,N5Om3
+1890102,Cus called in to change plan.,Change Plans,4,18,b1hpA,9QL2A
+1890103,Plan change. Customer want to upgrade all offers with speed 1MBps.,Change Plans,8,10,jUY98,4ap2X
+1890104,Plan changed. Cus happy about new plans & offers we have.,Change Plans,8,5,VMSRM,Yvo5x
+1890105,Vineeth enquired about new plans. He wants to change his current plans.,Change Plans,3,11,uCGEt,3om4n
+1890106,Customer wants to change plan to 3G. His current plan is not giving him extra hours at night.,Change Plans,8,7,kwFhJ,la1nn
+1890107,Hailey called to enquire about new plans. Educated her about the new offers. Agreed to change to Jumbo offer.,Change Plans,0,16,z88Nr,2ifCE
+1890108,Allen want to change to Jumbo offer. His current plan end this week.,Change Plans,9,19,M5RGq,G585j
+1890109,Cus called to understand procedures of changing to new plan.,Change Plans,7,11,NXnqR,CueYc
+1890110,865484876 called in to change the 3G existing plan.,Change Plans,4,8,Miw0X,CSDfu
+1890111,Customer wants to cancel all services & start new ones.,Cancel Service,8,10,xVLWN,dtjMl
+1890112,John Meyer want to cancel the current connection.,Cancel Service,9,12,wWJdw,ECVAt
+1890113,Cus called in to suspend celebration services,Cancel Service,7,15,EgBDg,GPJIK
+1890114,Customer want to cancel service with immediate effect.,Cancel Service,4,11,C905d,la1nn
+1890115,Gregory cancelled his services temporarily.,Cancel Service,7,15,DluRk,OUYEI
+1890116,Cancelling services for a short period of time. ,Cancel Service,6,19,Dhzcn,zwFXz
+1890117,Customer inquired about the cacellation policies.,Cancel Service,0,13,NvHk7,0Y5rx
+1890118,8757486764 cancelled the existing plans 7 services.,Cancel Service,2,9,A182L,39XvV
+1890119,Xferred the call to cancellation & retention team.,Cancel Service,9,11,USZjy,1DW7T
+1890120,Customer called about cancelling the existing services to add new ones.,Cancel Service,8,10,TDDFF,IPlXq
+1890121,Customer called to ask about his Data usage for the past one week.,Data Usage,1,18,SZhh9,4IaJb
+1890122,Higginbottoms called to check his son's data usage for the last month.,Data Usage,1,12,DluRk,QEebS
+1890123,Data Usage increased suddenly for the customer. Customer wants to know why.,Data Usage,0,17,Gcns7,4pfVB
+1890124,"Called to check peak time Data Usage on an overall. Provided the Usage statistics of the customer,",Data Usage,2,20,79hxJ,arBXH
+1890125,Wants to control the data usage during daytime & use it at night.,Data Usage,6,10,CQ0pL,kgYpJ
+1890126,Cus ants to increase data balance based on his daily usage.,Data Usage,7,5,T3Kti,iDoZ2
+1890127,Customer called in to enquire data usage policies for a business requirement. Educated him on Business plans.,Data Usage,9,17,xC6Bq,JP3zw
+1890128,Data usage statistics doesn't match with his actual usage. Customer concerned.,Data Usage,5,12,jOjvQ,2SVeu
+1890129,More data usage leading to over heating of device. Reduced data balance.,Data Usage,5,13,B4RHX,1hhO1
+1890130,Data usage not matching with actual. Provided him last months report.,Data Usage,0,15,0Fbql,X5Xnj
+1890131,Customer demise.,Others,7,8,5HHnN,svkC5
+1890132,IMEI Changed.,Others,3,19,DOWFa,Il1WE
+1890133,Reported sad demise of customer.,Others,2,19,o6cXs,jD51a
+1890134,SIM details & IMEI are are not matching.,Others,2,12,LZYX8,zdrwb
+1890135,Checked new applications in the market.,Others,8,7,EIe4p,arBXH
+1890136,Want to know if Whatsapp could be installed in the device.,Others,7,6,hibB0,KPCed
+1890137,Wants to access News channels through phone.,Others,1,17,nGpIG,K3oIL
+1890138,"Customer wants to block calls from a particular number,",Others,0,15,tmmz9,8cIy8
+1890139,Checking IMEI status.,Others,8,5,rBM1s,P7kiq
+1890140,Called to report demise of her grandmother & want to cancel the connection.,Others,3,16,OKht7,Mu1GO
+1890141,Checking IMEI status.,Others,5,15,OXAHY,Njz8i
+1890142,#call?,Others,,,,
+1890143,Se verificaron nuevas aplicaciones en el mercado.,Others,7,10,4ntG8,9a6f9
