@@ -34,11 +34,6 @@ cymem==2.0.2
 DateTime==4.3
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.2
-django-cors-headers==3.0.2
-django-environ==0.4.5
-django-extensions==2.1.7
-djangorestframework==3.9.4
 docutils==0.14
 en-core-web-lg==2.1.0
 en-core-web-sm==2.1.0
@@ -162,7 +157,6 @@ sortedcontainers==2.1.0
 soupsieve==1.9.1
 spacy==2.1.4
 spacy-langdetect==0.1.2
-SQLAlchemy==1.1.9
 sqlparse==0.3.0
 srsly==0.0.5
 stemming==1.0.1
