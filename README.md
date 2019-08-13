@@ -21,17 +21,17 @@ One of the peculiarities of this project is, I have tried to streamline the Text
 Heuristic/Rule-based approach which nowadays very few people use is also included in the code. Eventhough this is a primitive approach & has nothing to do with Machine Learning, at times I feel this approach can yield better results based on the type of text data you're dealing with.
 
 The Supervised Learning approaches used in this project are:
-Logistic Regression
-Naive Bayes Classifier
-Stochastic Gradient Descent
-Random Forest Classifier
-XGBoost Classifier
-Support Vector Machines(SVC)
-Combination of Word2Vec & Logistic Regression
-Combination of Doc2Vec & Logistic Regression
-Bag-Of-Words with Keras Sequential Model
-LSTM
-Heuristic/Rule Based Approach.
+- Logistic Regression
+- Naive Bayes Classifier
+- Stochastic Gradient Descent
+- Random Forest Classifier
+- XGBoost Classifier
+- Support Vector Machines(SVC)
+- Combination of Word2Vec & Logistic Regression
+- Combination of Doc2Vec & Logistic Regression
+- Bag-Of-Words with Keras Sequential Model
+- LSTM
+- Heuristic/Rule Based Approach.
 
 The Unsupervised Learning approaches used in this project are:
 Latent Dirichlet allocation(LDA) using 
