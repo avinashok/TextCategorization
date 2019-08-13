@@ -7,9 +7,8 @@ To run a demo, use the command: $python '/Codes/CommentCategorizationMain.py' -W
 
 Things left to do:
 1. Fix bugs.
-2. Correct "requirements.txt" file with actual requirements.
-3. Write the blog post & link it with the repository for better understanding.
-4. Add more comments to the codes.
+2. Write the blog post & link it with the repository for better understanding.
+3. Add more comments to the codes.
 
 
 Any suggestions towards improving the code is much appreciated.
