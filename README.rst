@@ -24,17 +24,16 @@ Heuristic/Rule-based approach which nowadays very few people use is also include
 
 The Supervised Learning approaches used in this project are:
 
-- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
-
-- [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
-- [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
-- [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
-- [XGBoost](https://en.wikipedia.org/wiki/XGBoost)
-- [Support Vector Machine(SVC)](https://en.wikipedia.org/wiki/Support-vector_machine)
-- [Combination of Word2Vec & Logistic Regression](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
-- [Combination of Doc2Vec & Logistic Regression](https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4)
-- [Bag-Of-Words with Keras Sequential Model](https://keras.io/getting-started/sequential-model-guide/)
-- [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
+- `'Logistic Regression' <https://en.wikipedia.org/wiki/Logistic_regression>`_
+- `'Naive Bayes Classifier' <https://en.wikipedia.org/wiki/Naive_Bayes_classifier>`_
+- `'Stochastic Gradient Descent' <https://en.wikipedia.org/wiki/Stochastic_gradient_descent>`_
+- `'Random Forest' <https://en.wikipedia.org/wiki/Random_forest>`_
+- `'XGBoost' <https://en.wikipedia.org/wiki/XGBoost>`_
+- `'Support Vector Machine(SVC)' <https://en.wikipedia.org/wiki/Support-vector_machine>`_
+- `'Combination of Word2Vec & Logistic Regression' <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
+- `'Combination of Doc2Vec & Logistic Regression' <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
+- `'Bag-Of-Words with Keras Sequential Model' <https://keras.io/getting-started/sequential-model-guide/>`_
+- `'LSTM' <https://en.wikipedia.org/wiki/Long_short-term_memory>`_
 - Heuristic/Rule Based Approach.
 
 The Unsupervised Learning approaches used in this project are:
@@ -50,6 +49,9 @@ In trying to incorporate the context of sentences at times, we also try two word
 
 
 Scope of Improvements:
+
 1) Grid Search could be used to optimize various algorithm parameters, there by fitting a model with maximum accuracy.
+
 2) `'Latent Semantic Analysis(LSA)' <https://en.wikipedia.org/wiki/Latent_semantic_analysis>`_, `'Restricted Boltzman Machine(RBM)' <https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine>`_, `'lda2vec' <https://arxiv.org/abs/1605.02019>`_ etc. can also be tried out under Unsupervised Learning approach, but would require better processing capacity to run.
+
 3) Based on the data you're dealing with, Text Preprocessing methods & approaches may vary.
