@@ -56,6 +56,5 @@ Scope of Improvements:
 
 3) Based on the data you're dealing with, Text Preprocessing methods & approaches may vary.
 
-
 **Work in this repository is in progress. If you'd like to help, please do. There's a lot of work to
-be done.**👍
+be done.** 👍
