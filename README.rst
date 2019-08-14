@@ -1,8 +1,7 @@
 Text Categorization using Machine Learning
 ==========
 
-
-Text Categorization(sometimes referred to as Text Classification) is one of the basic & most popular task in [Natural Language Processing(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). There are different approaches available for performing this both Supervised and Unsupervised.
+Text Categorization(sometimes referred to as Text Classification) is one of the basic & most popular task in `Natural Language Processing(NLP) <https://en.wikipedia.org/wiki/Natural_language_processing>`_. There are different approaches available for performing this both Supervised and Unsupervised.
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/d/d9/Library-shelves-bibliographies-Graz.jpg
 -----------
@@ -11,7 +10,7 @@ In this project I'm trying to list down various popular approaches to do text ca
 
 Python 3.7.3(latest version) is used to develop the code.
 
-For development purposes, I have created a sample [dataset](https://github.com/avinashok/TextCategorization/blob/master/Data/CustomerInteractionData.csv) with text content being the agent-customer initeraction comments. I suggest you to go through ['Notebooks/TextCategorizationApproaches.ipynb'](https://github.com/avinashok/TextCategorization/blob/master/Notebooks/TextCategorizationApproaches.ipynb) for a deeper understanding about the Exploratory Data Analysis(EDA) performed on the data. You can also use [nbviewer](https://nbviewer.jupyter.org/) for viewing the JupyterNotebook.
+For development purposes, I have created a sample `dataset <https://github.com/avinashok/TextCategorization/blob/master/Data/CustomerInteractionData.csv>`_ with text content being the agent-customer initeraction comments. I suggest you to go through `'Notebooks/TextCategorizationApproaches.ipynb' <https://github.com/avinashok/TextCategorization/blob/master/Notebooks/TextCategorizationApproaches.ipynb>`_ for a deeper understanding about the Exploratory Data Analysis(EDA) performed on the data. You can also use `'nbviewer' <https://nbviewer.jupyter.org/>`_ for viewing the JupyterNotebook.
 
 Alternatively, for a quick Demo, use the command:
 
@@ -39,16 +38,18 @@ The Supervised Learning approaches used in this project are:
 - Heuristic/Rule Based Approach.
 
 The Unsupervised Learning approaches used in this project are:
-[Latent Dirichlet allocation(LDA)](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) using 
+'Latent Dirichlet allocation(LDA)' <https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation>`_ using 
+
 - Bag of Words
 - TF-IDF
 
 In trying to incorporate the context of sentences at times, we also try two word gram models:
+
 - Unigram Word distribution
 - Bigram Word distribution
 
 
 Scope of Improvements:
 1) Grid Search could be used to optimize various algorithm parameters, there by fitting a model with maximum accuracy.
-2) [Latent Semantic Analysis(LSA)](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [Restricted Boltzman Machine(RBM)](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine), [lda2vec](https://arxiv.org/abs/1605.02019) etc. can also be tried out under Unsupervised Learning approach, but would require better processing capacity to run.
+2) `'Latent Semantic Analysis(LSA)' <https://en.wikipedia.org/wiki/Latent_semantic_analysis>`_, `'Restricted Boltzman Machine(RBM)' <https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine>`_, `'lda2vec' <https://arxiv.org/abs/1605.02019>`_ etc. can also be tried out under Unsupervised Learning approach, but would require better processing capacity to run.
 3) Based on the data you're dealing with, Text Preprocessing methods & approaches may vary.
