@@ -4,8 +4,7 @@ Text Categorization using Machine Learning
 
 Text Categorization(sometimes referred to as Text Classification) is one of the basic & most popular task in [Natural Language Processing(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). There are different approaches available for performing this both Supervised and Unsupervised.
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Library-shelves-bibliographies-Graz.jpg/1280px-Library-shelves-bibliographies-Graz.jpg
-
+.. image:: https://upload.wikimedia.org/wikipedia/commons/d/d9/Library-shelves-bibliographies-Graz.jpg
 -----------
 
 In this project I'm trying to list down various popular approaches to do text categorization and opening a platform to compare the results of different approaches. This repository would give you a quick & overall understanding of how to approach a similar 'Text Categorization-Sentiment Analysis' type problem.
