@@ -24,7 +24,9 @@ One of the peculiarities of this project is, I have tried to streamline the Text
 Heuristic/Rule-based approach which nowadays very few people use is also included in the code. Eventhough this is a primitive approach & has nothing to do with Machine Learning, at times I feel this approach can yield better results based on the type of text data you're dealing with.
 
 The Supervised Learning approaches used in this project are:
+
 - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+
 - [Naive Bayes Classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 - [Stochastic Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
