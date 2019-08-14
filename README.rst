@@ -55,3 +55,6 @@ Scope of Improvements:
 2) `'Latent Semantic Analysis(LSA)' <https://en.wikipedia.org/wiki/Latent_semantic_analysis>`_, `'Restricted Boltzman Machine(RBM)' <https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine>`_, `'lda2vec' <https://arxiv.org/abs/1605.02019>`_ etc. can also be tried out under Unsupervised Learning approach, but would require better processing capacity to run.
 
 3) Based on the data you're dealing with, Text Preprocessing methods & approaches may vary.
+
+4) Work in this repository is in progress. If you'd like to help, please do. There's a lot of work to
+be done.
