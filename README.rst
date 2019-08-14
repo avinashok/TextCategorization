@@ -10,7 +10,7 @@ In this project I'm trying to list down various popular approaches to do text ca
 
 Python 3.7.3(latest version) is used to develop the code.
 
-For development purposes, I have created a sample `dataset <https://github.com/avinashok/TextCategorization/blob/master/Data/CustomerInteractionData.csv>`_ with text content being the agent-customer initeraction comments. I suggest you to go through `'Notebooks/TextCategorizationApproaches.ipynb' <https://github.com/avinashok/TextCategorization/blob/master/Notebooks/TextCategorizationApproaches.ipynb>`_ for a deeper understanding about the Exploratory Data Analysis(EDA) performed on the data. You can also use `nbviewer <https://nbviewer.jupyter.org/>`_ for viewing the JupyterNotebook.
+For development purposes, I have created a sample `dataset <https://github.com/avinashok/TextCategorization/blob/master/Data/CustomerInteractionData.csv>`_ with text content being the agent-customer interaction comments. I suggest you to go through `'Notebooks/TextCategorizationApproaches.ipynb' <https://github.com/avinashok/TextCategorization/blob/master/Notebooks/TextCategorizationApproaches.ipynb>`_ for a deeper understanding about the Exploratory Data Analysis(EDA) performed on the data. You can also use `nbviewer <https://nbviewer.jupyter.org/>`_ for viewing the JupyterNotebook.
 
 Alternatively, for a quick Demo, use the command:
 
