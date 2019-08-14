@@ -14,7 +14,7 @@ For development purposes, I have created a sample `dataset <https://github.com/a
 
 Alternatively, for a quick Demo, use the command:
 
-    python '/Codes/CommentCategorizationMain.py' -W ignore::DeprecationWarning
+    ``python '/Codes/CommentCategorizationMain.py' -W ignore::DeprecationWarning``
 
 This code will enable you to iteratively compare between different approaches for the same dataset & evaluate the training accuracy of each one of them.
 
@@ -24,16 +24,16 @@ Heuristic/Rule-based approach which nowadays very few people use is also include
 
 The Supervised Learning approaches used in this project are:
 
-- `'Logistic Regression' <https://en.wikipedia.org/wiki/Logistic_regression>`_
-- `'Naive Bayes Classifier' <https://en.wikipedia.org/wiki/Naive_Bayes_classifier>`_
-- `'Stochastic Gradient Descent' <https://en.wikipedia.org/wiki/Stochastic_gradient_descent>`_
-- `'Random Forest' <https://en.wikipedia.org/wiki/Random_forest>`_
-- `'XGBoost' <https://en.wikipedia.org/wiki/XGBoost>`_
-- `'Support Vector Machine(SVC)' <https://en.wikipedia.org/wiki/Support-vector_machine>`_
-- `'Combination of Word2Vec & Logistic Regression' <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
-- `'Combination of Doc2Vec & Logistic Regression' <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
-- `'Bag-Of-Words with Keras Sequential Model' <https://keras.io/getting-started/sequential-model-guide/>`_
-- `'LSTM' <https://en.wikipedia.org/wiki/Long_short-term_memory>`_
+- `Logistic Regression <https://en.wikipedia.org/wiki/Logistic_regression>`_
+- `Naive Bayes Classifier <https://en.wikipedia.org/wiki/Naive_Bayes_classifier>`_
+- `Stochastic Gradient Descent <https://en.wikipedia.org/wiki/Stochastic_gradient_descent>`_
+- `Random Forest <https://en.wikipedia.org/wiki/Random_forest>`_
+- `XGBoost <https://en.wikipedia.org/wiki/XGBoost>`_
+- `Support Vector Machine(SVC) <https://en.wikipedia.org/wiki/Support-vector_machine>`_
+- `Combination of Word2Vec & Logistic Regression <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
+- `Combination of Doc2Vec & Logistic Regression <https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4>`_
+- `Bag-Of-Words with Keras Sequential Model <https://keras.io/getting-started/sequential-model-guide/>`_
+- `LSTM <https://en.wikipedia.org/wiki/Long_short-term_memory>`_
 - Heuristic/Rule Based Approach.
 
 The Unsupervised Learning approaches used in this project are:
