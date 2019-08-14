@@ -37,7 +37,7 @@ The Supervised Learning approaches used in this project are:
 - Heuristic/Rule Based Approach.
 
 The Unsupervised Learning approaches used in this project are:
-'Latent Dirichlet allocation(LDA)' <https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation>`_ using 
+`'Latent Dirichlet allocation(LDA)' <https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation>`_ using 
 
 - Bag of Words
 - TF-IDF
