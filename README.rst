@@ -56,5 +56,6 @@ Scope of Improvements:
 
 3) Based on the data you're dealing with, Text Preprocessing methods & approaches may vary.
 
+Read the Medium article for this project `here <https://medium.com/@okavinashok/text-categorization-using-machine-learning-d14a2e940af8>`_. 
 **Work in this repository is in progress. If you'd like to help, please do. There's a lot of work to
 be done.** 👍
