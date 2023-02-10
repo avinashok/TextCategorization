@@ -3,7 +3,7 @@ en-core-web-sm==2.1.0
 fpdf==1.7.2
 gensim==3.7.3
 ipykernel==5.1.1
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jupyter==1.0.0
